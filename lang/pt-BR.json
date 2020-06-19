@@ -1,0 +1,22 @@
+{
+    "BRT.TypeLabel": "Tipo de Tabela Melhorada",
+    "BRT.TypeDefault": "Tabela padrão",
+    "BRT.BetterTable": "Tabela Melhorada",
+    "BRT.TypeLoot": "Tabela de Pilhagem",
+    "BRT.StoryLoot": "Tabela de Histórias",
+    "BRT.CurrencyLoot": "Moedas para Pilhagem",
+    "BRT.Currency": "Moedas:",
+    "BRT.CurrencyLootPlaceholder": "Adicione fórmulas separadas por vírgula, por exemplo: 1d4[gp], (1d4+1)*10[sp]",
+    "BRT.LootActorName": "Adicionar pilhagem ao ator",
+    "BRT.LootActorNamePlaceholder": "Se vazio, ele criará um novo ator de pilhagem sempre",
+    "BRT.GenerateLoot.Button": "Gerar pillhagem",
+    "BRT.Settings.LootSheet.Title": "Planilha a ser usada para gerar a pilhagem",
+    "BRT.Settings.LootSheet.Description": "Você pode definir fichas de npc alternativas a serem usadas para a pilhagem geradas na criação" ,
+    "BRT.Settings.SpellCompendium.Title": "Compêndio de mágias para usar em rolagens aleatórias",
+    "BRT.Settings.SpellCompendium.Description": "Você pode especificar um compêndio de mágia e, quando um pergaminho é selecionado em uma tabela de itens (eles precisam ter um nome específico), uma mágia aleatório é rolado nesse compêndio" ,
+    "BRT.LootRollAmount": "Quantidade de rolagens",
+    "BRT.LootRollAmountPlaceholder": "Role a tabela inteira várias vezes",
+    "BRT.DrawResultPlural": "Desenha {amount} resultados de {name}",
+    "BRT.DrawResultSingular": "Desenhar {amount} resultado de {name}",
+    "BRT.DrawResultZero": "Rolando {nome}"
+}
